@@ -123,9 +123,11 @@ This implementation is intended for instructional use, helping students understa
 
 ---
 
-## 📁 Authors & Credits
+## 👤 Autore
 
-Developed as part of the DESLab assignment. Based on theoretical material from DESLab.pdf and related lecture slides.
+**Emanuele Pippa**  
+Progetto didattico basato su FIPS 46-3, sviluppato nell’ambito del laboratorio DESLab  
+GitHub: [epippa](https://github.com/epippa)
 
 ---
 
