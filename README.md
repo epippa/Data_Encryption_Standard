@@ -119,16 +119,14 @@ No external libraries are required. Pure Java standard functionality is used.
 
 ## 🎓 Educational Purpose
 
-This implementation is intended for instructional use, helping students understand how each part of the DES algorithm translates into actual Java logic. It is based on FIPS PUB 46-3 and conforms to all pedagogical requirements from the assignment.
+This implementation is intended for instructional use, helping students understand how each part of the DES algorithm translates into actual Java logic. It is based on FIPS PUB 46-3, developed within the DESLab laboratory and conforms to all pedagogical requirements from the assignment. For academic use only.
 
 ---
 
 ## 👤 Autore
 
 **Emanuele Pippa**  
-Progetto didattico basato su FIPS 46-3, sviluppato nell’ambito del laboratorio DESLab  
+Studente di Informatica presso la Libera Università di Bolzano
 GitHub: [epippa](https://github.com/epippa)
 
 ---
-
-For academic use only.
