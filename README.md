@@ -123,10 +123,10 @@ This implementation is intended for instructional use, helping students understa
 
 ---
 
-## 👤 Autore
+## 👤 Author
 
 **Emanuele Pippa**  
-Studente di Informatica presso la Libera Università di Bolzano
+Computer Science student at the Free University of Bolzano
 GitHub: [epippa](https://github.com/epippa)
 
 ---
